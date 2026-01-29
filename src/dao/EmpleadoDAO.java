@@ -72,4 +72,4 @@ public class EmpleadoDAO {
             ps.executeUpdate();
         }
     }
-}      
+}
