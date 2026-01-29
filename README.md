@@ -1,7 +1,9 @@
 # -_crud_de_empleados_java_swing_oracle_mvc_- :.
 # CRUD de Empleados – Java Swing + Oracle (MVC).
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/32e25ab3-1508-435f-bae7-db4e169eca9b" />    
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/32e25ab3-1508-435f-bae7-db4e169eca9b" />        
+
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/463a3463-6fa9-41b5-8ed5-c370168bfb51" />    
 
 A continuación se presenta una **solución completa, clara y profesional para IntelliJ IDEA (Java)** que implementa:
 
